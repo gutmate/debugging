@@ -1,23 +1,7 @@
 <!-- $theme: gaia -->
 <!-- template: invert -->
-<!-- page_number: true -->
+<!-- page_number: false -->
 <!-- $size: 4:3 -->
-
-# emoji
-
-:smile: :yum: :laughing:
-:mag_right:
-:zap:
-:thumbsup:
-:cd:
-:computer:
-:page_facing_up:
-:book:
-:earth_americas:
-:link:
-:heart:
-
----
 
 # `debugging` :computer:
 ###### by Park Jinhyung
@@ -35,6 +19,7 @@ INDEX
 	- `console`
 	- Network
 	- Breakpoints
+	- Blackboxing
 
 ---
 
@@ -78,6 +63,7 @@ INDEX
 #### - `console`
 #### - Network
 #### - Breakpoint
+#### - Blackboxing
 
 ---
 
@@ -289,25 +275,35 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![breakpoint01](images/breakpoint_02.jpg)
+![breakpoint02](images/breakpoint_02.jpg)
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![breakpoint01](images/breakpoint_03.jpg)
+![breakpoint03](images/breakpoint_03.jpg)
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![breakpoint01](images/breakpoint_04.jpg)
+![breakpoint04](images/breakpoint_04.jpg)
 
 ---
 
-sss
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![breakpoint01](images/breakpoint_01.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![breakpoint04](images/breakpoint_05.jpg)
 
 ---
 
@@ -329,6 +325,23 @@ Pause on exceptions
 
 ---
 
+# Blackboxing:no_entry_sign:
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Blackboxing:no_entry_sign:
+<br>
+
+![blackboxing01](images/blackboxing_01.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Blackboxing:no_entry_sign:
+<br>
+
+![blackboxing02](images/blackboxing_02.jpg)
+
+---
 
 
 # example <small>(console)</small>
@@ -345,12 +358,17 @@ Pause on exceptions
 
 <!-- *footer: jh.park@theuber.co.kr -->
 
-# ###.
+#### <span style="background-color:green;">참고<span>
 
-<span style="background-color:green;">참고 **사이트**<span>
+
 
 [git블로그](https://gutmate.github.io)
 
 [github](https://gutmate.github.io)
 
 ---
+
+# END :wave:
+
+---
+
