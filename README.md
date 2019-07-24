@@ -1,10 +1,11 @@
 <!-- $theme: gaia -->
 <!-- template: invert -->
 <!-- page_number: true -->
+<!-- $size: 4:3 -->
 
 # emoji
 
-:smile:
+:smile: :yum: :laughing:
 :mag_right:
 :zap:
 :thumbsup:
@@ -16,9 +17,11 @@
 :link:
 :heart:
 
+
 ---
 
 # `debugging` :computer:
+##### Created by Park Jinhyng
 
 ---
 
@@ -78,7 +81,32 @@ console.log('aaa');
 ```
 
 ---
-# example
+
+```javascript
+var data = [
+	{
+    	"name": "박진형",
+        "location": "하남",
+        "tel": "4989"
+    },
+   	{
+    	"name": "정혜윤",
+        "location": "남양주",
+        "tel": "4987"
+    },
+    {
+    	"name": "김웅진",
+        "location": "일산",
+        "tel": "4978"
+    }
+];
+console.table(data);
+
+```
+
+---
+
+# example <small>(console)</small>
 
 ======
 
@@ -90,11 +118,7 @@ console.log('aaa');
 
 ---
 
-
-
----
-
-
+# :earth_americas: chrome debugger
 
 ---
 
@@ -134,10 +158,24 @@ console.log('aaa');
 
 ---
 
-# 마지막 페이지 푸터
 
-일반 **텍스트**가 들어가면?
+
+---
+
+
+
+---
+
+
+
+---
+
+# LAST
+
+<span style="background-color:green;">참고 **사이트**<span>
 
 [git블로그](https://gutmate.github.io)
+
+[github](https://gutmate.github.io)
 
 ---
