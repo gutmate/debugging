@@ -252,12 +252,7 @@ var data = [
 
 ![network01](images/network_01.jpg)
 
----
-
-##### :earth_americas: Chrome Dev Tools > Network:hourglass_flowing_sand:
-<br>
-
-[network example](http://210.16.195.78:8040/converter/simulation-tool.do)
+[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
@@ -304,6 +299,8 @@ var data = [
 <br>
 
 ![breakpoint04](images/breakpoint_05.jpg)
+
+[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
