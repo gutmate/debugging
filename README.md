@@ -30,7 +30,7 @@ INDEX
 ### bug?
 <br>
 
-프로그램 내의 결함이나 문제점을 이야기하는 것으로
+**프로그램 내의 결함이나 문제점**을 이야기하는 것으로
 프로그래밍 언어 COBOL의 개발을 주도한
 그레이스 호퍼가 1945년 Mark II의 오작동 원인을
 찾다가 컴퓨터에 나방이 껴있는 걸 발견한 것
@@ -39,11 +39,11 @@ INDEX
 
 ### bug?
 
-![](images/bug.jpg)
+![bug](images/bug.jpg)
 
 ---
 
-# `debugging === remove bug`
+# `debugging === removeBug`
 ###### 컴퓨터 프로그램의 정확성이나<br>논리적인 오류(버그)를 검출하여 제거하는 과정
 
 ---
@@ -291,6 +291,98 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
+- Watch
+- Call Stack
+- Scope
+  - Local
+  - Global
+- Breakpoints
+- Event Listener Breakpoints
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Watch](images/breakpoint_06.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Watch](images/breakpoint_06.jpg)
+
+관찰하고 싶은 객체, 변수 등을 등록
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_CallStack](images/breakpoint_07.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Scope](images/breakpoint_08.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Scope](images/breakpoint_08.jpg)
+
+현재 시점 유효 범위에서 등록된 변수 목록
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Watch](images/breakpoint_09.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_06.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Watch](images/breakpoint_06.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
 ![breakpoint01](images/breakpoint_01.jpg)
 
 ---
@@ -306,6 +398,11 @@ var data = [
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
+
+`arrangeLayer();`
+`getInfoData();`
+
+[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
@@ -341,6 +438,36 @@ Pause on exceptions
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # example <small>(console)</small>
 
 ======
@@ -366,6 +493,3 @@ Pause on exceptions
 ---
 
 # END :wave:
-
----
-
