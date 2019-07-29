@@ -327,7 +327,9 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Scope](images/breakpoint_08.jpg)
+![Breakpoints_CallStack](images/breakpoint_07.jpg)
+
+{{콜스택 설명}}
 
 ---
 
@@ -336,28 +338,63 @@ var data = [
 
 ![Breakpoints_Scope](images/breakpoint_08.jpg)
 
-현재 시점 유효 범위에서 등록된 변수 목록
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Scope](images/breakpoint_08.jpg)
+
+현재 시점의 유효 범위에서 등록된 변수 목록
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Watch](images/breakpoint_09.jpg)
+![Breakpoints_Breakpoints](images/breakpoint_09.jpg)
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Breakpoints](images/breakpoint_06.jpg)
+![Breakpoints_Breakpoints](images/breakpoint_09.jpg)
+
+지정한 포인트에서 중단
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Watch](images/breakpoint_06.jpg)
+![Breakpoints_elBreakpoints](images/breakpoint_10.jpg)
+
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_elBreakpoints](images/breakpoint_10.jpg)
+
+선택한 event가 발생할 때 중단
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_11.jpg)
+
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_11.jpg)
+
 
 ---
 
