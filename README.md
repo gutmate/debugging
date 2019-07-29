@@ -387,49 +387,37 @@ var data = [
 
 ![Breakpoints_Breakpoints](images/breakpoint_11.jpg)
 
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_12.jpg)
+
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Breakpoints](images/breakpoint_11.jpg)
+![Breakpoints_Breakpoints](images/breakpoint_13.jpg)
 
-
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![breakpoint01](images/breakpoint_01.jpg)
+다중 선택, 중단점 사용 여부 선택 가능
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![breakpoint04](images/breakpoint_05.jpg)
+![Breakpoints_Breakpoints](images/breakpoint_14.jpg)
 
 [:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
 
 ---
 
