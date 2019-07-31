@@ -471,7 +471,7 @@ Pause on exceptions
 
 ---
 
-##### :earth_americas: Chrome Dev Tools > Blackboxing:no_entry_sign:
+##### :earth_americas: Chrome Dev Tools > Practice
 <br>
 
 [chevrolet ajax data](http://210.16.195.78:8000/evlife/special-care.gm)
