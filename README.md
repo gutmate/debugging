@@ -15,7 +15,7 @@ INDEX
 - What is `debugging`?
 - How to `debugging`?
 - :earth_americas: Chrome Dev Tools
-	- `alert();` 
+	- `alert();`
 	- `console`
 	- Network
 	- Breakpoints
@@ -59,10 +59,10 @@ INDEX
 ##### :earth_americas: Chrome Dev Tools
 <br>
 
-#### - `alert();` 
+#### - `alert();`
 #### - `console`
 #### - Network
-#### - Breakpoint
+#### - Breakpoints
 #### - Blackboxing
 
 ---
@@ -78,6 +78,14 @@ INDEX
 # `console`
 
 ---
+
+##### :earth_americas: Chrome Dev Tools > `console`
+<br>
+
+### `console.log();`
+
+---
+
 ##### :earth_americas: Chrome Dev Tools > `console`
 <br>
 
@@ -221,7 +229,7 @@ var data = [
         "location": "하남",
         "tel": "4989"
     },
-   	{
+    {
     	"name": "정혜윤",
         "location": "남양주",
         "tel": "4987"
@@ -240,6 +248,8 @@ var data = [
 <br>
 
 ![console_table01](images/console_table_01.jpg)
+
+[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
@@ -394,7 +404,6 @@ var data = [
 
 ![Breakpoints_Breakpoints](images/breakpoint_12.jpg)
 
-
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
@@ -462,6 +471,12 @@ Pause on exceptions
 
 ---
 
+##### :earth_americas: Chrome Dev Tools > Blackboxing:no_entry_sign:
+<br>
+
+[chevrolet ajax data](http://210.16.195.78:8000/evlife/special-care.gm)
+
+---
 
 
 
