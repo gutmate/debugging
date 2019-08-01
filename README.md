@@ -249,7 +249,7 @@ var data = [
 
 ![console_table01](images/console_table_01.jpg)
 
-[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
+[:chart_with_upwards_trend:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
@@ -262,7 +262,7 @@ var data = [
 
 ![network01](images/network_01.jpg)
 
-[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
+[:chart_with_upwards_trend:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
@@ -301,20 +301,12 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
+##### Debug Info
 - Watch
 - Call Stack
-- Scope
-  - Local
-  - Global
+- Scope  
 - Breakpoints
 - Event Listener Breakpoints
-
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![Breakpoints_Watch](images/breakpoint_06.jpg)
 
 ---
 
@@ -332,21 +324,7 @@ var data = [
 
 ![Breakpoints_CallStack](images/breakpoint_07.jpg)
 
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![Breakpoints_CallStack](images/breakpoint_07.jpg)
-
-{{콜스택 설명}}
-
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![Breakpoints_Scope](images/breakpoint_08.jpg)
+실행중인 정보
 
 ---
 
@@ -364,13 +342,6 @@ var data = [
 
 ![Breakpoints_Breakpoints](images/breakpoint_09.jpg)
 
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![Breakpoints_Breakpoints](images/breakpoint_09.jpg)
-
 지정한 포인트에서 중단
 
 ---
@@ -380,15 +351,7 @@ var data = [
 
 ![Breakpoints_elBreakpoints](images/breakpoint_10.jpg)
 
-
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
-![Breakpoints_elBreakpoints](images/breakpoint_10.jpg)
-
-선택한 event가 발생할 때 중단
+체크한 event가 발생할 때 중단
 
 ---
 
@@ -418,38 +381,50 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-![Breakpoints_Breakpoints](images/breakpoint_14.jpg)
+![Breakpoints_Breakpoints](images/breakpoint_15.jpg)
 
-[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
-
----
-
-##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
-<br>
-
+중단점을 그만하고 코드 계속 실행(다음 중단점 이동)
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-`arrangeLayer();`
-`getInfoData();`
+![Breakpoints_Breakpoints](images/breakpoint_16.jpg)
 
-[:link:](http://210.16.195.78:8040/converter/simulation-tool.do)
+다음 함수 코드로 이동
 
 ---
 
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
-Resume script execution
-Step over next function call
-Step into next function call
-Step out of current function
-Step
-Deactivate breakpoints
-Pause on exceptions
+![Breakpoints_Breakpoints](images/breakpoint_17.jpg)
+
+함수의 내부 코드로 이동
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_18.jpg)
+
+현재 함수에서 빠져나와 다음 함수로 이동
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_19.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
+![Breakpoints_Breakpoints](images/breakpoint_20.jpg)
 
 ---
 
@@ -471,64 +446,12 @@ Pause on exceptions
 
 ---
 
-##### :earth_americas: Chrome Dev Tools > Practice
+##### :earth_americas: Chrome Dev Tools > Testing
 <br>
 
-[chevrolet ajax data](http://210.16.195.78:8000/evlife/special-care.gm)
+[:car:](http://210.16.195.78:8000/campaign/boltev-pre-contract/index.gm)
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# example <small>(console)</small>
-
-======
-
-[example1](https://gutmate.github.io/)
-
-[example2](http://210.16.195.78:8040/converter/simulation-tool.do)
-
-![bg](images/bug.jpg)
-
----
-
-<!-- *footer: jh.park@theuber.co.kr -->
-
-#### <span style="background-color:green;">참고<span>
-
-
-
-[git블로그](https://gutmate.github.io)
-
-[github](https://gutmate.github.io)
+[:chart_with_upwards_trend:](http://210.16.195.78:8040/converter/simulation-tool.do)
 
 ---
 
