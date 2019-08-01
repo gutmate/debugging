@@ -424,6 +424,13 @@ var data = [
 ##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
 <br>
 
+![Breakpoints_Breakpoints](images/breakpoint_16.jpg)
+
+---
+
+##### :earth_americas: Chrome Dev Tools > Breakpoints:watch:
+<br>
+
 ![Breakpoints_Breakpoints](images/breakpoint_20.jpg)
 
 ---
