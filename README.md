@@ -5,7 +5,6 @@
 
 # `debugging` :computer:
 ###### by Park Jinhyung
-###### jh.park@theuber.co.kr
 
 ---
 
